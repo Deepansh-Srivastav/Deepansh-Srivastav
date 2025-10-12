@@ -46,17 +46,17 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/DeepanshSrivastav/github-readme-stats">
-  <img alt="Deepansh Srivastav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepanshSrivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Deepansh-Srivastav/github-readme-stats">
+  <img alt="Deepansh Srivastav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepansh-Srivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/DeepanshSrivastav/github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshSrivastav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepansh-Srivastav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 ---
 
-<a href="https://github.com/DeepanshSrivastav/github-readme-activity-graph">
-  <img alt="Deepansh Srivastav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepanshSrivastav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/Deepans-hSrivastav/github-readme-activity-graph">
+  <img alt="Deepansh Srivastav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deepansh-Srivastav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
 ---

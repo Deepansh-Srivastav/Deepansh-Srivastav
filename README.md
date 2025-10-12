@@ -1,10 +1,8 @@
-![banner](https://user-images.githubusercontent.com/84350895/233795560-95efec29-4d41-4a0c-9deb-2ec1542b6ac0.jp)
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/ee4b3003-ad8c-4a6a-a5a0-c74347e409ea" />
 
 ## 🙋‍♂️ About Me
-<!-- 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer.
+- 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer.![Uploading Navy Blue Geometric Technology LinkedIn Banner.png…]()
 - 💼 Check out my portfolio here: **[Portfolio](https://react-portfolio-phi-seven.vercel.app/)**.
 - 📫 Reach me at **deepansh.engineering03@gmail.com**.
 

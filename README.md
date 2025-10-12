@@ -1,70 +1,86 @@
-<p align="center">
-<!--   <img height="180em"  src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/circle-cropped.png"/> -->
- </p>
+![banner](https://user-images.githubusercontent.com/84350895/233795560-95efec29-4d41-4a0c-9deb-2ec1542b6ac0.jp)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 margin:30px>Hey there! I'm Deepansh Srivastav </h2>
+## 🙋‍♂️ About Me
+<!-- 
+- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-![](https://komarev.com/ghpvc/?username=Deepansh-Srivastav&color=orange)
-  
-### 👨🏻‍💻 &nbsp;About Me
+- 🌱 I’m currently diving deep into **DevOps and Microservices.**
+- 👯 I’m looking to collaborate on **Open-Source Projects**
+- 👨‍💻 I write blogs available here **[Blogs](https://hashnode.com/@Deepansh26)**
+- 📫 How to reach me **deepanshsrivastav@gmail.com**
+- ⚡ Fun fact **I like to sing and also cook sometimes**
 
+---
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science .\
-🌱 &nbsp;I'm on track for learning more about <b>Web Development</b> and <b>Competitive programming</b> .\
-✍️ &nbsp;In my free time, I pursue <b>Graphic Design</b> and play <b>Badminton🏸</b> as hobbies.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at abhishekchauhan1509@gmail.com! I'll try to respond as soon as I can.\
+## 🚀 Languages and Tools:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/Night-Coding.gif" align="right"/>
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="45" height="45"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="45"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="45" height="45"/> </a>
+    <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="45"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Express](http://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=javascript)
-![Firebase](http://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
-<!-- ![RTC](http://img.shields.io/badge/-RTC-333333?style=flat&logo=ibm) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\ -->
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
-<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-### ⚙️ &nbsp;GitHub Analytics
-<!-- <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=abhishekchauhan15&label=Views&color=blue&style=plastic" alt="chait04" />
- </p> -->
+---
 
 <p align="center">
-<a href="https://github.com/abhishekchauhan15">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekchauhan15&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekchauhan15&layout=compact&langs_count=8&theme=algolia"/>
+    <a href="https://github.com/DeepanshSrivastav/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepansh Srivastav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanshSrivastav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+---
+
+## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/DeepanshSrivastav/github-readme-stats">
+  <img alt="Deepansh Srivastav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepanshSrivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+<a href="https://github.com/DeepanshSrivastav/github-readme-stats">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshSrivastav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+---
+
+<a href="https://github.com/DeepanshSrivastav/github-readme-activity-graph">
+  <img alt="Deepansh Srivastav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepanshSrivastav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+---
+
+## 🌐 Connect with me:
+<p align="left">
+
+<a href="https://www.linkedin.com/in/deepansh-srivastav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/deepansh_26"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://hashnode.com/@Deepansh26"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg"/></a>
+<a href="https://www.instagram.com/deepansh.26/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
 
-<p align="center">
-<a href="https://romantic-beaver-da4687.netlify.app/"><img src="https://img.shields.io/badge/-abhishekchauhan-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhishekchauhan15/"><img src="https://img.shields.io/badge/-Abhishek%20Chauhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abhishekchauhan1509@gmail.com"><img src="https://img.shields.io/badge/-abhishekchauhan1509@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_abhishek_chauhan_09/"><img src="https://img.shields.io/badge/-_abhishek_chauhan_09-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
-
-</p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DeepanshSrivastav">
+</a>
+<a href="https://github.com/DeepanshSrivastav?tab=followers">
+    <img src="https://img.shields.io/github/followers/DeepanshSrivastav?label=Followers&style=social" alt="GitHub Badge">
+</a>

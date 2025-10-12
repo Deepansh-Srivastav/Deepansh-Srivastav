@@ -4,11 +4,9 @@
 <!-- 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently diving deep into **DevOps and Microservices.**
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-- 👨‍💻 I write blogs available here **[Blogs](https://hashnode.com/@Deepansh26)**
-- 📫 How to reach me **deepanshsrivastav@gmail.com**
-- ⚡ Fun fact **I like to sing and also cook sometimes**
+- 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer.
+- 💼 Check out my portfolio here: **[Portfolio](https://react-portfolio-phi-seven.vercel.app/)**.
+- 📫 Reach me at **deepansh.engineering03@gmail.com**.
 
 ---
 

@@ -1,49 +1,70 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<p align="center">
+<!--   <img height="180em"  src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/circle-cropped.png"/> -->
+ </p>
 
-###
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 margin:30px>Hey there! I'm Deepansh Srivastav </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![](https://komarev.com/ghpvc/?username=Deepansh-Srivastav&color=orange)
+  
+### 👨🏻‍💻 &nbsp;About Me
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science .\
+🌱 &nbsp;I'm on track for learning more about <b>Web Development</b> and <b>Competitive programming</b> .\
+✍️ &nbsp;In my free time, I pursue <b>Graphic Design</b> and play <b>Badminton🏸</b> as hobbies.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at abhishekchauhan1509@gmail.com! I'll try to respond as soon as I can.\
 
-###
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/Night-Coding.gif" align="right"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🛠 &nbsp;Tech Stack
 
-###
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Express](http://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=javascript)
+![Firebase](http://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
+<!-- ![RTC](http://img.shields.io/badge/-RTC-333333?style=flat&logo=ibm) -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
+<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\ -->
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
+<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\ -->
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+<!-- <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=abhishekchauhan15&label=Views&color=blue&style=plastic" alt="chait04" />
+ </p> -->
 
-###
+<p align="center">
+<a href="https://github.com/abhishekchauhan15">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekchauhan15&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekchauhan15&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<br clear="both">
+### 🤝🏻 &nbsp;Connect with Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<p align="center">
+<a href="https://romantic-beaver-da4687.netlify.app/"><img src="https://img.shields.io/badge/-abhishekchauhan-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishekchauhan15/"><img src="https://img.shields.io/badge/-Abhishek%20Chauhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abhishekchauhan1509@gmail.com"><img src="https://img.shields.io/badge/-abhishekchauhan1509@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_abhishek_chauhan_09/"><img src="https://img.shields.io/badge/-_abhishek_chauhan_09-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
-###
+</p>

@@ -60,10 +60,9 @@
 ## 🌐 Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/deepansh-srivastav/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://twitter.com/deepansh_26"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://hashnode.com/@Deepansh26"><img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-ar21.svg"/></a>
+<a href="www.linkedin.com/in/deepansh-srivastav"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/deepansh.26/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/deepansh_26"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 

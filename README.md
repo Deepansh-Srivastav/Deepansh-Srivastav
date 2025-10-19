@@ -73,6 +73,6 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Deepansh-Srivastav">
 </a>
-<a href="https://github.com/DeepanshSrivastav?tab=followers">
+<a href="https://github.com/Deepansh-Srivastav?tab=followers">
     <img src="https://img.shields.io/github/followers/Deepansh-Srivastav?label=Followers&style=social" alt="GitHub Badge">
 </a>

@@ -70,7 +70,7 @@
 ---
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Deepansh-Srivastav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Deepansh-Srivastav">
 </a>
 <a href="https://github.com/Deepansh-Srivastav?tab=followers">

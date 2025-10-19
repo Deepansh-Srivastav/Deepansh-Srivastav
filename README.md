@@ -11,9 +11,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
+    <img width="50" height="50" alt="icons8-mongo-db-96" src="https://github.com/user-attachments/assets/1b29cb53-a55a-475d-9d5a-9a0a792ee4b1" />
+    <img width="50" height="50" alt="icons8-express-js-100 (1)" src="https://github.com/user-attachments/assets/74a06af1-82c5-459f-b815-64fff9a203e3" />
+    <img width="50" height="50" alt="React" src="https://github.com/user-attachments/assets/6c3688f8-bc91-49b5-ab61-5e701a9bfa58" />
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
@@ -21,7 +21,7 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="50" height="50"/>
+    <img width="50" height="50" alt="icons8-redux-96" src="https://github.com/user-attachments/assets/50e09f48-e41c-47e5-8f63-0d98dcf1331c" />
 </p>
 
 

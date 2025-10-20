@@ -62,11 +62,8 @@
   <a href="https://www.linkedin.com/in/deepansh-srivastav/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/deepansh.26/" target="_blank" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.instagram.com/sd_1303_/?hl=en" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/deepansh_26" target="_blank" style="display: inline-block;">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
 </p>
 

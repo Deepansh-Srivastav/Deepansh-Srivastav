@@ -7,7 +7,6 @@
 - 📫 Reach me at **deepansh.engineering03@gmail.com**.
 
 ----
-
 ## 🚀 Languages and Tools:
 
 <p align="left">

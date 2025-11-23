@@ -23,7 +23,6 @@
     <img width="50" height="50" alt="icons8-redux-96" src="https://github.com/user-attachments/assets/50e09f48-e41c-47e5-8f63-0d98dcf1331c" />
 </p>
 
-
 ---
 
 <p align="center">

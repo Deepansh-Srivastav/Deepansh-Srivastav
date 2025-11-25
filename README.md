@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer.
+- 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer .
 - 💼 Check out my portfolio here: **[Portfolio](https://react-portfolio-phi-seven.vercel.app/)**.
 - 📫 Reach me at **deepansh.engineering03@gmail.com**.
 

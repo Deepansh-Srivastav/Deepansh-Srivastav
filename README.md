@@ -44,7 +44,7 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepansh-Srivastav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
----
+----
 
 <a href="https://github.com/Deepansh-Srivastav/github-readme-activity-graph">
   <img alt="Deepansh Srivastav's Activity Graph" 

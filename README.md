@@ -1,6 +1,6 @@
 <img width="1584" height="420" alt="Banner" src="https://github.com/user-attachments/assets/07ab5391-7b89-4d5c-a3a9-e41f25b4a54c" />
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Meee
 
 - 🌱 I’m currently a Frontend Developer exploring **Backend Development** to become a full-stack engineer .
 - 💼 Check out my portfolio here: **[Portfolio](https://react-portfolio-phi-seven.vercel.app/)**.
